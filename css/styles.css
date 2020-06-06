@@ -11,7 +11,7 @@
 
 h1 {
     font-family: 'Montserrat', sans-serif;
-    font-size: 3.5rem;
+    font-size: 3rem;
     line-height: 1.5;
     font-weight: 900;
     color: white;
@@ -20,7 +20,7 @@ h1 {
 h2 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
-    font-size: 3rem;
+    font-size: 2rem;
     line-height: 1.5;
 }
 
@@ -55,6 +55,10 @@ button {
 .dog-image-box {
     display: flex;
     justify-content: center;
+}
+
+.download-buttons {
+    margin-right: 1em;
 }
 
 .dog-image {
