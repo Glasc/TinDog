@@ -1,2 +1,1 @@
-# TinDog
-Angela Yu Course
+TinDog Starting Files
